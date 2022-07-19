@@ -68,6 +68,34 @@ Gameplay:
 ![aaafff](https://user-images.githubusercontent.com/90765314/179734289-32b00db1-4478-46c2-8464-2fffee991232.png)
 
 
+## Third Project:
+
+## Ragnarok
+
+### Role: 
+Mobile Game Programmer
+
+### Made With:
+Unity 3D,
+GitHub Desktop
+
+### Plot:
+Take on the role of a demigod and fight your own father, Odin.
+Use match 3 to defeat dangerous mythical creatures and gather precious resources.
+Use them to unlock new powers and create your village.
+
+### Screenshots:
+Promo Art:
+
+![03_Match 3_06_Ragnarok_Promo](https://user-images.githubusercontent.com/90765314/179735196-01174a07-4aad-4ad5-8e8c-1eff90b113bc.png)
+
+Village:
+
+![12 1](https://user-images.githubusercontent.com/90765314/179735379-8b486a22-db92-4be1-bef1-ba31e5c3c4a5.png)
+
+Gameplay:
+
+![aaassss (2)](https://user-images.githubusercontent.com/90765314/179735394-80d735d2-2daf-4623-83f9-a9ebf27359d5.png)
 
 
 ## Fourth Project
