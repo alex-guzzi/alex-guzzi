@@ -5,6 +5,40 @@
 
 ## Space Invaders
 
+### Role:
+Visual Scripting Programmer
+
+### Made With:
+Unity 3D,
+GitHub Desktop
+
+### Plot:
+The best attack is defence in this war against the abyss's invasion.
+Thanks to the new human technology, the Earth defense cannon can be charged with enemy attacks.
+Hone your skills in order to eradicate the enemy troops and defend the Planet Earth in this Arcade game set in Space.
+
+### Screenshots:
+Promo Art:
+
+![promo art colore](https://user-images.githubusercontent.com/90765314/179732983-92f1eb49-b274-4984-af99-43771cf9801d.png)
+
+Main Menu:
+
+![awdsa](https://user-images.githubusercontent.com/90765314/179733039-8c745350-e098-42f4-959d-3e2e8d4d8a28.png)
+
+
+Gameplay:
+
+![Gameplay](https://user-images.githubusercontent.com/90765314/179733047-0ade185b-1b8b-4b92-91cf-2f728bc3e76b.png)
+
+
+## Second Project
+
+## Cookies Are Mine!
+
+### Role:
+Lead Programmer
+
 ### Made With:
 Unity 3D,
 GitHub Desktop
@@ -19,7 +53,7 @@ GitHub Desktop
 
 ## Last Ride
 
-## Role: 
+### Role: 
 Game Programmer
 
 ### Made With:
