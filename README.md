@@ -44,9 +44,30 @@ Unity 3D,
 GitHub Desktop
 
 ### Plot:
-
+Cookies are Mine is a puzzle adventure where a child has to open the cookie jar without being caught by his parents.
+The game unfolds in a room to be explored and understood.
+The child will have to face environmental puzzles to arrive at the coveted sweets.
 
 ### Screenshots:
+Promo Art:
+
+![02_Twister_09_Cookies are Mine!_CapsulaPrincipale HD](https://user-images.githubusercontent.com/90765314/179734188-ceb5d301-b449-4324-8bb2-9a9c706215c1.jpg)
+
+Main Menu:
+
+![asdsa](https://user-images.githubusercontent.com/90765314/179734623-c7d0f64f-edc3-40ca-9b54-1e7759d746f8.png)
+
+
+Tutorial:
+
+![asdasdasdadd](https://user-images.githubusercontent.com/90765314/179734421-ffd0523b-13c0-48f3-b04e-01b76aeccef5.png)
+
+Gameplay:
+
+![aaa](https://user-images.githubusercontent.com/90765314/179734316-f0cf7a8b-da02-4075-899e-5796d7c3e090.png)
+![aaafff](https://user-images.githubusercontent.com/90765314/179734289-32b00db1-4478-46c2-8464-2fffee991232.png)
+
+
 
 
 ## Fourth Project
